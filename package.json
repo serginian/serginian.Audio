@@ -1,0 +1,28 @@
+{
+  "name": "com.serginian.audio",
+  "version": "1.0.0",
+  "displayName": "serginian.Audio",
+  "description": "A singleton audio manager that unifies audio playback in Unity. Features smooth music crossfading, theme-based audio organization, and ScriptableObject cue system. Eliminates scene clutter and separates audio implementation from code.",
+  "unity": "6000.0",
+  "keywords": [
+    "audio",
+    "sound",
+    "music",
+    "manager",
+    "singleton",
+    "crossfade",
+    "cue",
+    "theme"
+  ],
+  "author": {
+    "name": "serginian",
+    "url": "https://www.serginian.com"
+  },
+  "dependencies": {
+    
+  },
+  "documentationUrl": "https://github.com/serginian/serginian.Audio/blob/main/README.md",
+  "changelogUrl": "https://github.com/serginian/serginian.Audio/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/serginian/serginian.Audio/blob/main/LICENSE",
+  "type": "library"
+}

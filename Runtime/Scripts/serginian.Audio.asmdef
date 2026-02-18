@@ -1,0 +1,16 @@
+{
+    "name": "serginian.Audio",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c64537fb91df742258081b5442db6950"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
